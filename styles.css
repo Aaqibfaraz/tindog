@@ -1,0 +1,142 @@
+body {
+    font-family: "montserrat";
+}
+
+h1 {
+    font-family: 'Montserrat';
+    font-size: 3rem;
+    line-height: 1.6;
+    color: aliceblue;
+
+
+}
+
+h2{
+    font-family: 'montserrat';
+    line-height:1.5;
+    font-size:2.5rem;
+}
+
+h3 {
+    font-family: 'montserrat';
+     font-size: 1.7rem;
+}
+p{
+    color: grey;
+}
+
+
+#title {
+    background-color: #ff4c68;
+}
+
+.container-fluid {
+    padding: 1% 15%;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.btn {
+    margin-top: 30px;
+}
+
+a {
+    font-size: 1rem;
+}
+
+.col-lg-6 {
+    padding-top: 100px;
+}
+
+.nav-item {
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "montserrat-light";
+}
+
+/* download buttons */
+.downloadbutton {
+    margin: 5% 0 5% 3%;
+}
+
+/* iphone images */
+.image {
+    width: 70%;
+    transform: rotate(25deg);
+    position: relative;
+    top:190px;
+}
+
+
+.fa-solid {
+    color: tomato;
+
+
+}
+
+#features {
+    padding: 7% 10%;
+    background-color:white;
+    position:relative;
+z-index:1;
+}
+.box{
+    text-align: center;
+    padding: 1%;
+}
+
+:hover.fa-solid {
+    color: #ff4c68;
+}
+.ico{
+    margin-bottom: 1rem;
+}
+
+/* Testimonials sections */
+
+#testimonials
+{
+    text-align:center;
+    background-color:#ff4c68;
+    color: white;
+}
+
+.carousel-item
+{
+    padding: 7% 15%;
+}
+.testimonial-image{
+    width:10%;
+    border-radius:100%;
+    margin: 20px;
+}
+#press{
+    background-color:#ff4c68;
+    text-align:center;
+    padding-bottom: 3%;
+}
+.logo-image{
+    width:15%;
+    margin:20px 20px 15px;
+}
+.card{
+    text-align: center;
+width: 80%;
+
+}
+.price-button{
+width:80%;
+}
+#pricing{
+    padding:5%;
+}
+.cardup{
+    padding: 50px 50px ;
+}
